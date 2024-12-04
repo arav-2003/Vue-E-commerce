@@ -59,7 +59,6 @@
     methods:{
         change()
         {
-            debugger;
             this.message="Vue got updated !";
         },
         destroy()
